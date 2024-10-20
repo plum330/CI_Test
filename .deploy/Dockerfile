@@ -1,4 +1,4 @@
-FROM hub.class100.com/ops/golang:1.19
+FROM swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/golang:1.20.2
 
 WORKDIR /app
 
